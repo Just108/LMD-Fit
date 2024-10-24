@@ -1,1 +1,1 @@
-# LMD-Fit
+# LMDFit
