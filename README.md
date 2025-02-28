@@ -5,6 +5,7 @@ This study explores the effectiveness of language model initial selection for te
 If you use **LMDFit** in your research or work, please cite the following paper:
 
 **APA Style**
+
 Riyadi, A., Kovacs, M., Serdült, U., & Kryssanov, V. (2025). Benchmarking with a Language Model Initial Selection for Text Classification Tasks. Machine Learning and Knowledge Extraction, 7(1), 3. https://doi.org/10.3390/make7010003
 
 **Bibtex**
